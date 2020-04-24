@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="250" height="250"  src="./images/mypic.png"/> 
+	<img width="250" height="250"  src="./images/mypic.png" style="border-radius: 50%;"/> 
 </p>
 <h1 align="center">Syed Uzair Abbas</h1>
 <h3 align="center">Web Developer </h3>
