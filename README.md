@@ -96,12 +96,16 @@ The purpose of developing this “Internal Resources Portal” is to make a cent
 <p align="center">
 <img src="./images/EPIICT1.png" alt="Screenshot" width="300" height="300">
 <img src="./images/EPIICT2.png" alt="Screenshot" width="300" height="300">
-<img src="./images/EPIICT3.png" alt="Screenshot" width="300" height="300">
 
 </p>
 
 <p align="center">
+<img src="./images/EPIICT3.png" alt="Screenshot" width="300" height="300">
 <img src="./images/EPIICT4.png" alt="Screenshot" width="300" height="300">
+
+</p>
+
+<p align="center">
 <img src="./images/EPIICT5.png" alt="Screenshot" width="300" height="300">
 <img src="./images/EPIICT6.png" alt="Screenshot" width="300" height="300">
 
