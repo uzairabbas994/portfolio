@@ -17,7 +17,7 @@
 	<a href="https://web.facebook.com/abbas.ahmad.758399">
 		<img src="https://img.shields.io/static/v1?label=Facebook&message=Uzair&color=00ACEE">	
 	</a>
-	<a href="https://account.microsoft.com/profile/">
+	<a href="mailto:syeduzairabbas@outlook.com">
 		<img src="https://img.shields.io/static/v1?label=Outlook&message=Uzair&color=aqua">	
 	</a>
 </p>
