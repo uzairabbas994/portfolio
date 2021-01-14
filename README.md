@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now doing internship of networking in <a href="http://www.switchsolutions.com.pk/">“SWI-TCH” </a>, Islamabad.
+I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months as a PHP developer in Codeignitor Framework in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now doing internship of networking in <a href="http://www.switchsolutions.com.pk/">“SWI-TCH” </a>, Islamabad.
 </p>
 <p align="center">
  As a passionate and motivated professional, I have constantly improved my techniques, expanded my skillset and found new opportunities to grow. I am eager to constantly learn new things. 
