@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. 
+I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now doing internship of networking in <a href="http://www.switchsolutions.com.pk/">“SWI-TCH” </a>, Islamabad.
 </p>
 <p align="center">
  As a passionate and motivated professional, I have constantly improved my techniques, expanded my skillset and found new opportunities to grow. I am eager to constantly learn new things. 
@@ -114,6 +114,36 @@ The purpose of developing this “Internal Resources Portal” is to make a cent
 <!-- PACETECH -->
 <br>
 <hr>
+<!-- Student data -->
+<br>
+<h3 align="center">Student Data in PDF through PHP</h3>
+<p align="center">
+In this web application we are saving student data in database from the form and show list of the students data and make pop-up to enter filter to get PDF file for sepecific type of report or can get full report in PDF.
+</p>
+
+<p align="center">
+	<code>Html</code>
+	<code>CSS</code>
+	<code>Bootstrap</code>
+	<code>JavaScript</code>
+	<code>PHP</code>
+</p>
+<p align="center">
+<img src="./images/student1.jpeg" alt="Screenshot" width="300" height="300">
+<img src="./images/student3.jpeg" alt="Screenshot" width="300" height="300">
+
+</p>
+
+<p align="center">
+<img src="./images/student2.jpeg" alt="Screenshot" width="300" height="300">
+<img src="./images/student4.jpeg" alt="Screenshot" width="300" height="300">
+
+</p>
+
+<!-- Student data -->
+<br>
+<hr>
+
 
 
 
