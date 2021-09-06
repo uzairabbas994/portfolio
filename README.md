@@ -2,7 +2,7 @@
 	<img width="250" height="250"  src="./images/mypic1.png" style="border-radius: 50%;"/> 
 </p>
 <h1 align="center">Syed Uzair Abbas</h1>
-<h3 align="center">Network Support Engineer</h3>
+<h3 align="center">Network&System Support Engineer</h3>
 
 <p align="center">
 	<a  href="mailto:uzairabbas994@gmail.com">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months as a PHP developer in Codeignitor Framework in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now working as a Network Support Engineer in <a href="http://www.switchsolutions.com.pk/">“SWITCH COMMUNICATION” </a>, Islamabad.
+I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months as a PHP developer in Codeignitor Framework in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now working as a Network & System Support Engineer in <a href="http://www.switchsolutions.com.pk/">“SWITCH COMMUNICATION” </a>, Islamabad.
 </p>
 <p align="center">
  As a passionate and motivated professional, I have constantly improved my techniques, expanded my skillset and found new opportunities to grow. I am eager to constantly learn new things. 
