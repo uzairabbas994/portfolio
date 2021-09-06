@@ -2,7 +2,7 @@
 	<img width="250" height="250"  src="./images/mypic1.png" style="border-radius: 50%;"/> 
 </p>
 <h1 align="center">Syed Uzair Abbas</h1>
-<h3 align="center">Network&System Support Engineer</h3>
+<h3 align="center">Network & System Support Engineer</h3>
 
 <p align="center">
 	<a  href="mailto:uzairabbas994@gmail.com">
