@@ -17,13 +17,13 @@
 	<a href="https://web.facebook.com/abbas.ahmad.758399">
 		<img src="https://img.shields.io/static/v1?label=Facebook&message=Uzair&color=00ACEE">	
 	</a>
-	<a href="mailto:syeduzairabbas@outlook.com">
-		<img src="https://img.shields.io/static/v1?label=Outlook&message=Uzair&color=aqua">	
+	<a href="https://resume.io/r/YzU8V4OQ3">
+		<img src="https://img.shields.io/static/v1?label=Resume&message=Uzair&color=aqua">	
 	</a>
 </p>
 
 <p align="center">
-I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months as a PHP developer in Codeignitor Framework in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now working as a Network & System Support Spacilist in <a href="http://www.switchsolutions.com.pk/">“SWITCH COMMUNICATION” </a>, Islamabad.
+I compeleted my 'Bachelor of Science in Computer Science' in 'September,2019' from <a href="http://case.edu.pk/">“CASE” </a> and done my 'Final Yera Project'with <a href="http://www.letsinnovate.net/">“LETS INNOVATE” </a> and complete internship of 3 months as a PHP developer in Codeignitor Framework in April,2020 from <a href="https://www.pace-tech.com/">“PACE TECH” </a>, Islamabad. Now working as a IT & System Support Executive in <a href="http://www.switchsolutions.com.pk/">“SWITCH COMMUNICATION” </a>, Islamabad.
 </p>
 <p align="center">
  As a passionate and motivated professional, I have constantly improved my techniques, expanded my skillset and found new opportunities to grow. I am eager to constantly learn new things. 
