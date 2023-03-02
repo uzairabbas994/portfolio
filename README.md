@@ -147,6 +147,34 @@ In this web application we are saving student data in database from the form and
 <!-- Student data -->
 <br>
 <hr>
+<!-- SSwitch Communications IT Support -->
+<br>
+<h3 align="center">IT & System Support Executive</h3>
+<p align="center">
+As an <b>IT & System Support Executive</b> we deployed the Hardware in <b>JAZZ/Ufone/Telenor MSC</b> of <b>Collect Call, Bakhabar Kissan, JAZZ Mosafir, MSA/ Smart SMS, My Status, Notify Me, Khushal Zamindar (telenor) & Ufone VIP services</b>. From hardware deployment to readiness of the VMs on which the DevOps can work, we do <b> Hardware testing, Raid Configractions, HyperViser (ESXi/Proxmox) installaction, Creating VMs by Scratch or by BackUps, Installing OS on VMs (Ubuntu/CentOS/FreePBX) & Installing Packages (MySQL8/NodeJS/Asterisk/Redis)</b>. We create <b>Emails & Groups</> on <b>HosterPK & Office-365</b>. In Office 365 we also <b>create Rooms, take Email BackUps</b>. We also work on <b>FortiGate</b> where we work on <b>MAC Filtraction  policies & LoadBalancer</b>. We also create <b>OpenVPN-Servers</b> on <b>PfSense</b>.
+</p>
+
+<p align="center">
+	<code>Linux(Ubuntu/CentOS)</code>
+	<code>Proxmox/ESXi</code>
+	<code>MS-Office 365</code>
+	<code>Grafana/Prometheus</code>
+</p>
+<p align="center">
+<img src="./images/LocalJAZZ.png" alt="Screenshot" width="300" height="300">
+<img src="./images/FitflexFlow.png" alt="Screenshot" width="300" height="300">
+
+</p>
+
+<p align="center">
+<img src="./images/MSAJazz.png" alt="Screenshot" width="300" height="300">
+<img src="./images/MSNetworkHLD.jpg" alt="Screenshot" width="300" height="300">
+
+</p>
+
+<!-- Switch Communications IT Support -->
+<br>
+<hr>
 
 
 
