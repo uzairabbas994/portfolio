@@ -161,9 +161,9 @@ As an <b>IT & System Support Executive</b> we deployed the Hardware in <b>JAZZ/U
 	<code>Grafana/Prometheus</code>
 </p>
 <p align="center">
-<img src="./images/LocalJAZZ.png" alt="Screenshot" width="300" height="200">
-<img src="./images/FitflexFlow.png" alt="Screenshot" width="300" height="200">
-<img src="./images/CCServers.png" alt="Screenshot" width="300" height="200">
+<img src="./images/LocalJAZZ.png" alt="Screenshot" width="200" height="300">
+<img src="./images/FitflexFlow.png" alt="Screenshot" width="200" height="300">
+<img src="./images/CCServers.png" alt="Screenshot" width="200" height="300">
 </p>
 
 <p align="center">
